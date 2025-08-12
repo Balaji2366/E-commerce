@@ -1,1 +1,2 @@
-it is simple E commerence
+E=commerce
+
